@@ -13,7 +13,7 @@
     "cheerio-httpcli": "^0.7.4",
     "react": "^16.8.6",
     "socket.io": "^2.2.0",
-    "xlsx": "^0.14.2",
+    "xlsx": "^0.17.0",
     "xlsx-populate": "^1.19.1"
   }
 }
